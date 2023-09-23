@@ -1,7 +1,5 @@
 # light.css v0.0.1
 
-![light.css Logo](https://raw.githubusercontent.com/devsimsek/light.css/main/logo.png)
-
 light.css is a minimalistic CSS framework designed to make web development faster and easier. It provides a set of predefined styles and variables that you can use to create beautiful and responsive web applications.
 
 ## Table of Contents
@@ -75,7 +73,7 @@ If you would like to contribute to light.css, please check out the [GitHub repos
 
 ## License
 
-light.css is released under the [MIT License](https://github.com/devsimsek/light.css/blob/main/LICENSE). You are free to use, modify, and distribute this framework in your projects.
+light.css is released under the [MIT License](https://devsimsek.mit-license.org/). You are free to use, modify, and distribute this framework in your projects.
 
 ---
 
