@@ -17,7 +17,7 @@ light.css is a minimalistic CSS framework designed to make web development faste
 To get started with light.css, you can include it in your project using the following CDN link:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devsimsek/light.css@0.0.1/dist/light.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devsimsek/light.css/light.min.css">
 ```
 
 Alternatively, you can download the CSS file from the [GitHub repository](https://github.com/devsimsek/light.css) and include it in your project manually.
